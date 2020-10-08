@@ -30,7 +30,6 @@
 }
 
 .header__square-pic {
-  height: 568px;
   position: absolute;
   background-color: #2f80ed;
   width: 568px;
@@ -333,6 +332,8 @@
   font-size: 18px;
   font-weight: bold;
   color: white;
+  margin: 0;
+  margin-bottom: 20px;
 }
 
 .footer__column_content_info {
@@ -343,11 +344,6 @@
 .footer__column_content_social {
   display: flex;
   flex-direction: column;
-}
-
-.footer__column-heading {
-  margin: 0;
-  margin-bottom: 20px;
 }
 
 .footer__column-links {
