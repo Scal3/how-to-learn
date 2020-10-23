@@ -5,4 +5,6 @@
   width: 60%;
   margin: auto;
   text-align: center;
+  position: relative;
+  z-index: 2;
 }

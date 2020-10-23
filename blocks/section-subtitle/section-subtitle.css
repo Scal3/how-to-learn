@@ -6,4 +6,6 @@
   text-align: center;
   margin: auto;
   margin-top: 20px;
+  position: relative;
+  z-index: 2;
 }
